@@ -51,7 +51,7 @@ if credits:
     sm2 = "[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shopovgeorgii)"
 
     st.sidebar.write('# **Georgi Shopov**\n\n',sm1,sm2)
-    st.sidebar.image('default.png.')
+    st.sidebar.image('default.png')
     sm3 = "[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/datascigonewild)"
     sm4 = "[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/datascigonewild)"
     st.sidebar.write(sm3,sm4)
